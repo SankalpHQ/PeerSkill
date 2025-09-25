@@ -11,6 +11,9 @@ PeerSkill is a peer-to-peer skill sharing platform that connects students, profe
 - *Messaging System:* Secure in-app chat for planning sessions.
 - *Workshops & Events:* Organize group sessions or webinars inside the platform.
 - *Gamified Progress:* Earn badges and points for sharing knowledge.
+-  ![Home](images/Home.png)
+ ![Features](images/Features.png)
+- ![Review](images/Review.png)
 
 ---
 
